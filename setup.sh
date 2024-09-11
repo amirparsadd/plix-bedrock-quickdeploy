@@ -1,5 +1,6 @@
-sudo apt update && sudo apt upgrade
-sudo apt install unzip
+apt update && apt upgrade
+apt install unzip
+apt install screen
 
 curl -L https://plixhost-cdn.s3.ir-thr-at1.arvanstorage.ir/bedrock/vanilla-latest.zip >> server.zip
 unzip server.zip
